@@ -2,8 +2,10 @@ body{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     background-color:rgb(57, 57, 57);
 }
-p, b{
+p, b, div{
     text-align: center !important;
+}
+p, b{
     color: #ff6f61;
     font-size: 100px;
 }
@@ -21,5 +23,4 @@ div.kolor{
     left: 0;
     bottom: 0;
     width: 100%;
-    text-align: center !important;
 }
