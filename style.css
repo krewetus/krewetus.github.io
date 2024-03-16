@@ -2,12 +2,9 @@ body{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     background-color:rgb(57, 57, 57);
 }
-p, b, div{
-    text-align: center !important;
-}
-p, b{
+b, div{
+    text-align: center;
     color: #ff6f61;
-    font-size: 100px;
 }
 div > a{
     font-size:20px;
