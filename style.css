@@ -5,7 +5,7 @@ body{
 p, div{
     text-align: center;
     color: #ff6f61;
-    font-size: xx-large;
+    font-size: 100px;
 }
 footer{
     flex-shrink: 0; 
