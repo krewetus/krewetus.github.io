@@ -1,6 +1,8 @@
 body{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     background-color:rgb(57, 57, 57);
+    min-height: calc(100vh - 70px);
+      
 }
 p, div{
     text-align: center;
@@ -8,15 +10,15 @@ p, div{
     font-size: 100px;
 }
 footer{
-    flex-shrink: 0; 
-    padding: 20px;
-}
+    text-align: center;
+    height: 50px;
+  }
 div > a{
     font-size:20px;
     color:#ff8c82;
 }
 div.kolor{
-    text-align: center;
+    
     color: #ff6f61;
     font-size:16px;
 }
