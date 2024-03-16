@@ -1,6 +1,7 @@
 body{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
-.hi{
+div{
     text-align: center;
+    color: #ff6f61;
 }
