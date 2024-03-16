@@ -3,7 +3,7 @@ body{
     background-color:rgb(57, 57, 57);
 }
 p, b{
-    text-align: center;
+    text-align: center !important;
     color: #ff6f61;
     font-size: 100px;
 }
