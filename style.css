@@ -10,8 +10,10 @@ p, b{
 }
 footer{
     background-color: rgb(44, 44, 44);
-    text-align: center;
-    flex-shrink: 0;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 div > a{
     font-size:20px;
