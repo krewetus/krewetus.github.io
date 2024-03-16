@@ -6,6 +6,7 @@ p{
     text-align: center;
     color: #ff6f61;
     font-weight: bold;
+    text-shadow: none;
 }
 .hover:hover{
     text-shadow: rgb(255, 255, 255) 1px 0 10px;
