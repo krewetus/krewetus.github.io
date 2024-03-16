@@ -2,7 +2,9 @@ body{
     background-color: rgb(33, 33, 45);
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
-b{
+p{
     text-align: center;
     color: #ff6f61;
+    font-weight: bold;
+    text-shadow: rgb(255, 255, 255) 1px 0 10px;
 }
