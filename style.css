@@ -11,3 +11,12 @@ footer{
     flex-shrink: 0; 
     padding: 20px;
 }
+div > a{
+    font-size:20px;
+    color:#ff8c82;
+}
+div.kolor{
+    text-align: center;
+    color: #ff6f61;
+    font-size:16px;
+}
