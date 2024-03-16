@@ -11,10 +11,12 @@ div > a{
     font-size:20px;
     color:#ff8c82 !important;
 }
+footer{
+    background-color: rgb(44, 44, 44);
+}
 div.kolor{
     color: #ff6f61;
     font-size:16px;
-    background-color: rgb(44, 44, 44);
     position: fixed;
     left: 0;
     bottom: 0;
