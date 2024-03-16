@@ -14,7 +14,23 @@
     <br><br><br><br>
     <div><b>hi i'm shrimpo</b>
     
-        <script src="main/clock.js"></script> <!-- clock script is here -->
+        <script>
+            function startTime() {
+            const today = new Date();
+            let h = today.getHours();
+            let m = today.getMinutes();
+            let s = today.getSeconds();
+            m = checkTime(m);
+            s = checkTime(s);
+            document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
+            setTimeout(startTime, 1000);
+        }
+  
+        function checkTime(i) {
+            if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+            return i;
+        }
+        </script> <!-- clock script is here -->
         
     </div> 
 
