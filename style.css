@@ -1,8 +1,7 @@
 body{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     background-color:rgb(57, 57, 57);
-    min-height: calc(100vh - 70px);
-      
+    flex: 1 0 auto;
 }
 p, b{
     text-align: center;
@@ -10,9 +9,10 @@ p, b{
     font-size: 100px;
 }
 footer{
+    background-color: rgb(44, 44, 44);
     text-align: center;
-    height: 50px;
-  }
+    flex-shrink: 0;
+}
 div > a{
     font-size:20px;
     color:#ff8c82 !important;
