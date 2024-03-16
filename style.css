@@ -2,7 +2,11 @@ body{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 .hi{
+    left: 0;
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
     text-align: center;
-    display: table-cell;
-    vertical-align: middle;
+    top: 50%;
+    width: 100%;
 }
