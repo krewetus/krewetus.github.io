@@ -12,3 +12,6 @@ p{
     text-shadow: rgb(255, 255, 255) 1px 0 10px;
     transition: text-shadow 0.1s;
 }
+.big{
+    font-size: 60px;
+}
