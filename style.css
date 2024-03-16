@@ -1,23 +1,8 @@
 body{
+    background-color: rgb(33, 33, 45);
     font-family: "Comic Sans MS", "Comic Sans", cursive;
-    background-color:rgb(57, 57, 57);
 }
-b, div{
+b{
     text-align: center;
     color: #ff6f61;
-}
-div > a{
-    font-size:20px;
-    color:#ff8c82 !important;
-}
-footer{
-    background-color: rgb(44, 44, 44);
-}
-div.kolor{
-    color: #ff6f61;
-    font-size:16px;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
 }
