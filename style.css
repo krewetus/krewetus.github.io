@@ -1,7 +1,6 @@
 body{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     background-color:rgb(57, 57, 57);
-    flex: 1 0 auto;
 }
 p, b{
     text-align: center;
